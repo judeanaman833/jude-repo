@@ -40,8 +40,4 @@ python -m venv .venv
 python judee.py
 ```
 
-<<<<<<< HEAD
 After running successfully, you should find `data/Formula_Fed-Totals.csv` created with a header row and aggregated values.
-=======
-After running successfully, you should find `data/Formula_Fed-Totals.csv` created with a header row and aggregated values.
->>>>>>> 2f479411adaf2318b3af4886d41a8b5e5e64d4dc
